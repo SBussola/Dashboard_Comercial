@@ -2,19 +2,19 @@
 
 ## Visão geral do dashboard
 
-![Resumo](images/resumo.png)
+![Resumo](imagens/resumo.png)
 
 ## Análise de decomposição
 
-![Decomposição](images/decomposicao.png)
+![Decomposição](imagens/decomposicao.png)
 
 ## Tabela de análise
 
-![Tabela](images/tabela.png)
+![Tabela](imagens/tabela.png)
 
 ## Modelo de dados
 
-![Modelagem](images/modelagem.png)
+![Modelagem](imagens/modelagem.png)
 
 ## Sobre o projeto
 
